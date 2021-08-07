@@ -28,6 +28,7 @@ int VR = 2;   // VR - To control Speed
 Then, in setup function we set the speedometer to high because we want to take full range of speed and control the speed from VR, and because in this application we do not need Hall sensor readings.
 
 <br>
+<br>
 
 ```C++
 void setup() {
